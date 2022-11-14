@@ -1,4 +1,4 @@
-package in.ineuron.main;
+package Assignment1;
 
 public class Assignment1_Q2 {
 
